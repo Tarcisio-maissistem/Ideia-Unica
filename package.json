@@ -1,0 +1,25 @@
+{
+  "name": "ideia-unica",
+  "version": "1.0.0",
+  "description": "Aprendendo um pouco com Felipe Deschamps",
+  "main": "index.js",
+  "dependencies": {
+    "next": "^10.0.6",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tarcisio-maissistem/Ideia-Unica.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tarcisio-maissistem/Ideia-Unica/issues"
+  },
+  "homepage": "https://github.com/Tarcisio-maissistem/Ideia-Unica#readme"
+}
